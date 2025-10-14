@@ -104,15 +104,15 @@ body {
 }
 
 .section__index {
-    background-image: url(../images/backgrounds/1.jpg);
+    background-image: url(1.jpg);
 }
 
 .section__about {
-    background-image: url(../images/backgrounds/4.png);
+    background-image: url(4.png);
 }
 
 .section__index-second {
-    background-image: url(../images/backgrounds/2.png);
+    background-image: url(2.png);
 }
 
 header {

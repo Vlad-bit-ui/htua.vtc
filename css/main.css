@@ -1,27 +1,27 @@
 @font-face {
     font-family: 'Gotham Pro';
-    src: url(../css/fonts/GothamPro-Black.woff) format("woff");
+    src: url(fonts/GothamPro-Black.woff) format("woff");
     font-weight: 900;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Gotham Pro';
-    src: url(../css/fonts/GothamPro.woff) format("woff");
+    src: url(fonts/GothamPro.woff) format("woff");
     font-weight: 400;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Gotham Pro';
-    src: url(../css/fonts/GothamPro-Medium.woff) format("woff");
+    src: url(fonts/GothamPro-Medium.woff) format("woff");
     font-weight: 500;
     font-display: swap;
 }
 
 @font-face {
     font-family: 'e-UkraineHead';
-    src: url(../css/fonts/e-UkraineHead-Bold.woff) format("woff");
+    src: url(fonts/e-UkraineHead-Bold.woff) format("woff");
     font-weight: 700;
     font-display: swap;
 }
@@ -104,15 +104,15 @@ body {
 }
 
 .section__index {
-    background-image: url(/images/backgrounds/1.jpg);
+    background-image: url(../images/backgrounds/1.jpg);
 }
 
 .section__about {
-    background-image: url(/images/backgrounds/4.png);
+    background-image: url(../images/backgrounds/4.png);
 }
 
 .section__index-second {
-    background-image: url(/images/backgrounds/2.png);
+    background-image: url(../images/backgrounds/2.png);
 }
 
 header {
